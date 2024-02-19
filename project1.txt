@@ -2,3 +2,4 @@ hello
 
 today is a beautiful day
 
+how was your day?
